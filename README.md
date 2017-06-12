@@ -1,30 +1,28 @@
 ## Welcome to GitHub Pages
+<html>
+<head></head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/gunanksood/gunanksood.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<br>
+<marquee><img src = "http://code.emc.com/images/code_icon.png"></marquee>
+<b><br>Hello world!<br>My name is Gunank Sood. I am pursuing B.Tech CSE from Chitkara University Chandigarh..<br></b>
+<center>Below are the links to my profiles on various coding platforms.</center><br><br>
+<a href = "https://www.codechef.com/users/gunanksood">CODECHEF</a>
+<br><br>
+<a href = "https://www.hackerrank.com/begincoding">HACKERRANK</a>
+<br><br>
+<a href = "https://www.hackerearth.com/@gunanksood1222">HACKEREARTH</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br><br>
+Keep Coding! Have Fun!<br>
+<br>
+Contact:<br>
+E-mail : gunanksood@gmail.com<br>
+Facebook : https://www.facebook.com/gunanksood
+<br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
