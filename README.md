@@ -19,10 +19,10 @@ Keep Coding! Have Fun!<br>
 <br>
 Contact:<br>
 E-mail : gunanksood@gmail.com<br>
-##<a href = "https://www.linkedin.com/in/gunank-sood-883659a6/">LinkedIn </a>
-##<a href = "https://www.facebook.com/gunanksood">Facebook </a>
-##<a href = "https://twitter.com/gunanksood">Twitter </a>
-##<a href = "https://www.instagram.com/gunanksood/">InstaGram </a>
+<a href = "https://www.linkedin.com/in/gunank-sood-883659a6/">LinkedIn </a><br>
+<a href = "https://www.facebook.com/gunanksood">Facebook </a><br>
+<a href = "https://twitter.com/gunanksood">Twitter </a><br>
+<a href = "https://www.instagram.com/gunanksood/">InstaGram </a><br>
 
 <br>
 
