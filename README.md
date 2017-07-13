@@ -9,7 +9,7 @@
 <center>Below are the links to my profiles on various Online coding platforms.</center><br><br>
 <a target = "_blank" href = "https://www.codechef.com/users/gunanksood">CODECHEF</a>
 <br><br>
-<a target = "_blank" href = "https://www.hackerrank.com/begincoding">HACKERRANK</a>
+<a target = "_blank" href = "https://www.hackerrank.com/12_gunank">HACKERRANK</a>
 <br><br>
 <a target = "_blank" href = "https://www.hackerearth.com/@gunanksood1222">HACKEREARTH</a>
 <br><br>
