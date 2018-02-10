@@ -25,7 +25,7 @@ E-mail : gunanksood@gmail.com<br>
 <a target = "_blank" href = "https://www.facebook.com/gunanksood">Facebook </a><br>
 <a target = "_blank" href = "https://twitter.com/gunanksood">Twitter </a><br>
 <a target = "_blank" href = "https://www.instagram.com/gunanksood/">InstaGram </a><br>
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <br>
 
 
