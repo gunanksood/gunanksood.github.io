@@ -22,7 +22,7 @@ Keep Coding! Have Fun!<br>
 Feel free to Contact me:<br>
 E-mail : gunanksood@gmail.com<br>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="gunank-sood-883659a6"><a class="LI-simple-link" href='https://in.linkedin.com/in/gunank-sood-883659a6?trk=profile-badge'>Gunank Sood</a></div>
-<a target = "_blank" href = "https://www.linkedin.com/in/gunank-sood-883659a6/">LinkedIn </a><br>
+<a target = "_blank" href = "https://www.linkedin.com/in/gunanksood/">LinkedIn </a><br>
 <a target = "_blank" href = "https://www.facebook.com/gunanksood">Facebook </a><br>
 <a target = "_blank" href = "https://twitter.com/gunanksood">Twitter </a><br>
 <a target = "_blank" href = "https://www.instagram.com/gunanksood/">InstaGram </a><br>
